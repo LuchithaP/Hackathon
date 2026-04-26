@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+mne 
+scikit-learn
+matplotlib
+pyriemann
